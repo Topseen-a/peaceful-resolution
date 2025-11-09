@@ -10,7 +10,7 @@ import java.util.Scanner;
         if (number >= 1 && number <=100){
             System.out.println("In range");            
             }
-        if (number > 100){
+        else {
             System.out.println("Out of range");
             }
         }
